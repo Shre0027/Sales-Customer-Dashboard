@@ -13,9 +13,6 @@ This Tableau dashboard analyzes **sales trends and customer insights**, providin
 - `Sales-Customer-Dashboard.twbx` – Tableau workbook file.  
 - `Dataset.csv` – Sample dataset used in the project.  
 - `Dashboard.png` – Preview image of the dashboard.  
-
-## 🚀 Preview  
-![Dashboard Preview](./Dashboard.png)  
-
+ 
 ## 🔗 Explore the Interactive Dashboard  
 [Tableau Public Link](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17408852636350/CustomerDashboard)  
